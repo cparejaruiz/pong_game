@@ -32,5 +32,11 @@ Pong is a classic game that simulates a table tennis match in two dimensions. In
     The AI opponent automatically moves to intercept the ball.
     Score points by hitting the ball past the AI. The first player to reach 10 points wins.
 
+These are some examples of the game
+    ![alt text](<Screenshot from 2024-08-12 19-43-21.png>)
+
+And 
+    ![alt text](<Screenshot from 2024-08-12 19-46-32.png>)
+
 5. **Contributing**
 If you have any suggestions or improvements, feel free to fork the repository and submit a pull request. Contributions are welcome!
